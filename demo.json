@@ -1,0 +1,12 @@
+{
+    "Name": "Demo",
+    "Size": {
+        "x": 3,
+        "y": 3
+    },
+    "StartPosition": {
+        "x": 0,
+        "y": 0
+    },
+    "Objects": []
+}
